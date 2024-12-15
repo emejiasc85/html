@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "laravelcollective/html": "^6.0",
+        "laravelcollective/html": "^6.4",
         "illuminate/translation": "^6.0|^7.0|^8.0"
     },
     "require-dev": {
